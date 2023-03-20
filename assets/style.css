@@ -1,0 +1,38 @@
+html, body {
+    font-family: "Poppins", sans-serif;
+    background-color: #ebf2fa;
+}
+
+.bg-navy {
+    background-color: #427aa1;
+    color: #e0e0e0;
+}
+
+.bg-darknavy {
+    background-color: #05668d;
+}
+
+.social-icons {
+    color: #ebf2fa;
+    font-size: 24px;
+}
+
+.social-icons:hover {
+    color: #a5be00;
+}
+
+.text-header {
+    color: #05668d;
+    font-weight: 800;
+}
+
+.lead {
+    color: #679436;
+    font-size: 13px;
+    font-style: italic;
+}
+
+.subheading {
+    color: #427aa1;
+    font-size: 24px;
+}
